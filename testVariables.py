@@ -8,7 +8,7 @@ c=5.6
 d=[1,2,3]
 e=(1,2,3)
 f={1,2,3}
-g={"name":"vignesh","age":25}
+g={"name":"janaki","age":25}
 
 print(type(a))
 print(type(b))
