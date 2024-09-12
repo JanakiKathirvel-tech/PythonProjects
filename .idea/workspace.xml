@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e6e4d3b-4de7-4199-9a42-7935f015e465" name="Changes" comment="test" />
+    <list default="true" id="4e6e4d3b-4de7-4199-9a42-7935f015e465" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/Join-function-in-python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiline-string-in-python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleInputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globalvariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keywordnotusage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testVariables.py" beforeDir="false" afterPath="$PROJECT_DIR$/testVariables.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,24 +30,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JanakiKathirvel-tech"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JanakiKathirvel-tech/PythonProjects",
+    "accountId": "95a52e08-b549-4526-87da-d25bf8df612b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2lxZ8u4NIo9jZzKfETLLIWplYRO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Join-function-in-python.executor": "Run",
+    "Python.Multiline-string-in-python.executor": "Run",
+    "Python.MultipleInputs.executor": "Run",
     "Python.activate_this.executor": "Run",
+    "Python.globalvariable.executor": "Run",
+    "Python.inputcode.executor": "Run",
+    "Python.keywordnotusage.executor": "Run",
     "Python.testVariables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.testVariables">
+  <component name="RunManager">
     <configuration name="activate_this" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -129,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726124021020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1726124272098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726124272098</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
